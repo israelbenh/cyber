@@ -1,0 +1,9 @@
+## Pré-requisitos
+
+Antes de executar o projeto, certifique-se de ter os seguintes pré-requisitos instalados:
+
+- [Intellij IDEA](https://www.jetbrains.com/idea/) - Ambiente de desenvolvimento integrado para Java.
+- [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - Kit de desenvolvimento Java.
+- [ChromeDriver](https://chromedriver.chromium.org/downloads) - Driver necessário para a automação do Chrome.
+
+Certifique-se de instalar corretamente esses pré-requisitos em sua máquina antes de executar o projeto.
